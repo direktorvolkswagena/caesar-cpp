@@ -65,5 +65,3 @@ The program will then generate a file with the encrypted or decrypted text.
 ## **Contributing**
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
-```
-
